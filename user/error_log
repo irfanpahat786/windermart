@@ -1,0 +1,157 @@
+[06-Oct-2017 12:50:05 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/check.php on line 3
+[06-Oct-2017 12:50:05 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 267
+[06-Oct-2017 12:50:05 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[06-Oct-2017 12:50:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 269
+[06-Oct-2017 12:50:05 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 294
+[06-Oct-2017 12:50:05 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[06-Oct-2017 12:50:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 296
+[07-Oct-2017 06:48:25 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/check.php on line 3
+[07-Oct-2017 06:48:25 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 270
+[07-Oct-2017 06:48:25 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 06:48:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[07-Oct-2017 06:48:25 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 297
+[07-Oct-2017 06:48:25 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 06:48:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[07-Oct-2017 09:17:04 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/check.php on line 3
+[07-Oct-2017 09:17:04 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 270
+[07-Oct-2017 09:17:04 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 09:17:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[07-Oct-2017 09:17:04 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 297
+[07-Oct-2017 09:17:04 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 09:17:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[07-Oct-2017 11:10:32 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/check.php on line 3
+[07-Oct-2017 11:10:32 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 270
+[07-Oct-2017 11:10:32 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 11:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[07-Oct-2017 11:10:32 UTC] PHP Notice:  Undefined index: userid in /home/windermart/public_html/user/index.php on line 297
+[07-Oct-2017 11:10:32 UTC] PHP Notice:  Undefined variable: rar in /home/windermart/public_html/user/db.php on line 67
+[07-Oct-2017 11:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[09-Oct-2017 11:21:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[09-Oct-2017 11:21:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[09-Oct-2017 11:21:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[09-Oct-2017 14:04:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[09-Oct-2017 14:04:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[09-Oct-2017 14:04:19 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[10-Oct-2017 09:35:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[10-Oct-2017 09:35:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[10-Oct-2017 09:48:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[10-Oct-2017 09:48:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[10-Oct-2017 12:11:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[10-Oct-2017 12:11:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[10-Oct-2017 12:11:50 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[11-Oct-2017 07:31:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[11-Oct-2017 07:31:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[12-Oct-2017 08:54:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[12-Oct-2017 08:54:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[12-Oct-2017 08:54:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[12-Oct-2017 08:54:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[12-Oct-2017 08:54:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[12-Oct-2017 08:54:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[12-Oct-2017 08:54:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[12-Oct-2017 09:00:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[12-Oct-2017 09:00:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[12-Oct-2017 09:00:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[13-Oct-2017 07:19:11 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[13-Oct-2017 07:19:11 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[13-Oct-2017 07:19:11 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[13-Oct-2017 07:19:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/company.php on line 75
+[13-Oct-2017 10:56:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[13-Oct-2017 10:56:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[14-Oct-2017 10:00:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[14-Oct-2017 10:00:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[14-Oct-2017 10:00:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[16-Oct-2017 10:12:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[16-Oct-2017 10:12:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[16-Oct-2017 10:12:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[25-Oct-2017 08:47:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[25-Oct-2017 08:47:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[25-Oct-2017 08:47:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[25-Oct-2017 12:00:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[25-Oct-2017 12:00:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[26-Oct-2017 06:51:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[26-Oct-2017 06:51:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[26-Oct-2017 06:51:51 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[26-Oct-2017 06:51:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[26-Oct-2017 06:51:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[26-Oct-2017 06:51:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[26-Oct-2017 06:51:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[26-Oct-2017 08:00:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[26-Oct-2017 08:00:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[26-Oct-2017 08:00:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[26-Oct-2017 10:12:37 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[26-Oct-2017 10:12:37 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[26-Oct-2017 10:12:37 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[27-Oct-2017 11:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[27-Oct-2017 11:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[27-Oct-2017 11:44:53 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[30-Oct-2017 06:02:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[30-Oct-2017 06:02:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[30-Oct-2017 06:02:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[30-Oct-2017 10:36:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[30-Oct-2017 10:36:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[30-Oct-2017 10:36:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[03-Nov-2017 05:28:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[04-Nov-2017 04:14:54 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[04-Nov-2017 04:14:54 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[04-Nov-2017 04:14:54 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[06-Nov-2017 08:37:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[06-Nov-2017 08:37:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[06-Nov-2017 08:57:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[06-Nov-2017 08:57:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[09-Nov-2017 11:05:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[09-Nov-2017 11:05:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[09-Nov-2017 11:06:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[09-Nov-2017 11:06:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[09-Nov-2017 11:06:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[13-Nov-2017 06:24:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[13-Nov-2017 06:24:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[13-Nov-2017 06:24:23 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[13-Nov-2017 07:05:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[13-Nov-2017 07:05:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[13-Nov-2017 07:06:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[13-Nov-2017 07:06:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[15-Nov-2017 07:09:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[15-Nov-2017 07:09:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[15-Nov-2017 07:09:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[16-Nov-2017 05:19:31 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[17-Nov-2017 07:54:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[17-Nov-2017 07:54:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[17-Nov-2017 07:54:00 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[17-Nov-2017 18:23:49 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[17-Nov-2017 18:23:49 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[17-Nov-2017 18:23:49 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[17-Nov-2017 18:26:06 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[17-Nov-2017 18:26:06 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[17-Nov-2017 18:26:06 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[20-Nov-2017 06:08:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[20-Nov-2017 06:08:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[20-Nov-2017 06:08:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[20-Nov-2017 09:33:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[20-Nov-2017 09:33:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[20-Nov-2017 15:21:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/company.php on line 75
+[21-Nov-2017 17:06:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:07:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:07:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:08:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:08:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:08:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:09:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[21-Nov-2017 17:10:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/payu.php on line 13
+[24-Nov-2017 11:24:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[24-Nov-2017 11:24:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[24-Nov-2017 11:24:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[24-Nov-2017 11:28:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/company.php on line 75
+[25-Nov-2017 05:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 272
+[25-Nov-2017 05:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/windermart/public_html/user/index.php on line 299
+[25-Nov-2017 05:43:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[25-Nov-2017 05:43:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[25-Nov-2017 05:43:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[28-Nov-2017 06:54:47 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[28-Nov-2017 06:54:47 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[28-Nov-2017 06:54:47 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[28-Nov-2017 07:37:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[28-Nov-2017 07:37:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[28-Nov-2017 07:37:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132
+[30-Nov-2017 11:48:40 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 36
+[30-Nov-2017 11:48:40 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 84
+[30-Nov-2017 11:48:40 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/windermart/public_html/user/index.php on line 132

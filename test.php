@@ -1,0 +1,1 @@
+The domain is working fine from new server
